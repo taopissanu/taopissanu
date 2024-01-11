@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taopissanu
 - 👀 I’m interested in Runing
 - 📫 I'm working with Java and Kotlin 
-- 🌱 I’m currently learning HTML , CSS 
+- 🌱 I’m currently learning HTML , CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 
 <!---
 taopissanu/taopissanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
