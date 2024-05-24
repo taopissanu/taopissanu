@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taopissanu
-- 👀 I’m interested in Runing
+- 👀 I’m interested in Runing , Blockchain , NFT , Meme Coins and Web3
 - 📫 I'm working with Java and Kotlin 
 - 🌱 I’m currently learning HTML , CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 
